@@ -63,10 +63,20 @@ pip install pillow
 
 ## 📸 Screenshots
 
-> You can add screenshots here using:
-```markdown
-![Login Screen](screenshots/login.png)
-```
+### 🏠 Main Menu  
+![Main Menu](screenshots/output1.png)
+
+### 🔢 Number Order Puzzle  
+![Shuffled Number Order](screenshots/output2.png)  
+![Correct Order Result](screenshots/output3.png)
+
+### 🧩 Segmented Puzzle  
+![Unsolved Puzzle](screenshots/output4.png)  
+![Solved Puzzle](screenshots/output5.png)
+
+### 🔲 Obscured Image Authentication  
+![Obscured Challenge](screenshots/output6.png)  
+![Authentication Success](screenshots/output7.png)
 
 ---
 
